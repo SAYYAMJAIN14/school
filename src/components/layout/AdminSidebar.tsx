@@ -20,6 +20,7 @@ import {
   Sparkles,
   LogOut,
   Settings,
+  Upload,
 } from "lucide-react"
 
 const menuItems = [
@@ -32,6 +33,11 @@ const menuItems = [
     href: "/admin/dashboard/albums",
     label: "Albums",
     icon: ImageIcon,
+  },
+  {
+    href: "/admin/dashboard/photos",
+    label: "Manage Photos",
+    icon: Upload,
   },
   {
     href: "/admin/dashboard/events",
