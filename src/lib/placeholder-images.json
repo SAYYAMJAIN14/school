@@ -1,3 +1,124 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-home",
+      "description": "Graduation ceremony with students in caps and gowns",
+      "imageUrl": "https://images.unsplash.com/photo-1594750852491-e09aa1d75c78?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z3JhZHVhdGlvbiUyMHN0dWRlbnRzfGVufDB8fHx8MTc2MDg4MzA3MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "graduation students"
+    },
+    {
+      "id": "album-1",
+      "description": "Annual Sports Day 2023",
+      "imageUrl": "https://images.unsplash.com/photo-1558023784-f8343393cb06?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzcG9ydHMlMjBkYXl8ZW58MHx8fHwxNzYwODk4Mzk5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sports day"
+    },
+    {
+      "id": "album-2",
+      "description": "Science Exhibition",
+      "imageUrl": "https://images.unsplash.com/photo-1554475901-4538ddfbccc2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2llbmNlJTIwZmFpcnxlbnwwfHx8fDE3NjA4NDU0OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "science fair"
+    },
+    {
+      "id": "album-3",
+      "description": "Cultural Fest 'Aura'",
+      "imageUrl": "https://images.unsplash.com/photo-1759662232677-938070365568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c2Nob29sJTIwZmVzdGl2YWx8ZW58MHx8fHwxNzYwODU0OTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school festival"
+    },
+    {
+      "id": "album-4",
+      "description": "Class of 2024 Farewell",
+      "imageUrl": "https://images.unsplash.com/photo-1600752970525-7a0737e6aeac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY2hvb2wlMjBmYXJld2VsbHxlbnwwfHx8fDE3NjA5MzQ2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school farewell"
+    },
+    {
+      "id": "album-5",
+      "description": "Art & Craft Workshop",
+      "imageUrl": "https://images.unsplash.com/photo-1544928147-79a2dbc1f389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcnQlMjB3b3Jrc2hvcHxlbnwwfHx8fDE3NjA4NjI3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "art workshop"
+    },
+    {
+      "id": "album-6",
+      "description": "Annual Day Celebration",
+      "imageUrl": "https://images.unsplash.com/photo-1613893251438-c5f02a86cbad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY2hvb2wlMjBjZWxlYnJhdGlvbnxlbnwwfHx8fDE3NjA5MDkwNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school celebration"
+    },
+    {
+      "id": "event-1",
+      "description": "Inter-School Debate Competition",
+      "imageUrl": "https://images.unsplash.com/photo-1653206223797-4a6a73cd0af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkZWJhdGUlMjBjb21wZXRpdGlvbnxlbnwwfHx8fDE3NjA5MzQ2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "debate competition"
+    },
+    {
+      "id": "event-2",
+      "description": "Parent-Teacher Meeting",
+      "imageUrl": "https://images.unsplash.com/photo-1758873269276-9518d0cb4a0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxtZWV0aW5nJTIwZGlzY3Vzc2lvbnxlbnwwfHx8fDE3NjA5MzQ2ODN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "meeting discussion"
+    },
+    {
+      "id": "event-3",
+      "description": "Field Trip to the Museum",
+      "imageUrl": "https://images.unsplash.com/photo-1541420292210-e70322ee047e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtdXNldW0lMjB0cmlwfGVufDB8fHx8MTc2MDkzNDY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum trip"
+    },
+    {
+      "id": "achievement-1",
+      "description": "National Robotics Olympiad Winners",
+      "imageUrl": "https://images.unsplash.com/photo-1737825101103-c35677e6bd45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyb2JvdGljcyUyMHN0dWRlbnRzfGVufDB8fHx8MTc2MDkzNDY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robotics students"
+    },
+    {
+      "id": "achievement-2",
+      "description": "State Level Chess Champion",
+      "imageUrl": "https://images.unsplash.com/photo-1523875194681-bedd468c58bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaGVzcyUyMGdhbWV8ZW58MHx8fHwxNzYwOTM0NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chess game"
+    },
+    {
+      "id": "achievement-3",
+      "description": "Top Scorer in Mathematics",
+      "imageUrl": "https://images.unsplash.com/photo-1669146894279-509f5de45390?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50JTIwc3R1ZHlpbmd8ZW58MHx8fHwxNzYwOTM0NjgzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student studying"
+    },
+    {
+      "id": "student-1",
+      "description": "Student John Doe",
+      "imageUrl": "https://images.unsplash.com/photo-1522529599102-193c0d76b5b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzYwODI3NDkxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student portrait"
+    },
+    {
+      "id": "student-2",
+      "description": "Student Jane Smith",
+      "imageUrl": "https://images.unsplash.com/photo-1660794485891-26ef783fa993?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzdHVkZW50JTIwc21pbGluZ3xlbnwwfHx8fDE3NjA4NTIxNTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student smiling"
+    },
+    {
+      "id": "student-3",
+      "description": "Student Alex Johnson",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWVuYWdlciUyMHBvcnRyYWl0fGVufDB8fHx8MTc2MDg2NTU1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teenager portrait"
+    },
+    {
+      "id": "student-4",
+      "description": "Student Emily White",
+      "imageUrl": "https://images.unsplash.com/photo-1580489944761-15a19d654956?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxnaXJsJTIwc21pbGluZ3xlbnwwfHx8fDE3NjA4NzMwNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "girl smiling"
+    },
+    {
+      "id": "student-5",
+      "description": "Student Michael Brown",
+      "imageUrl": "https://images.unsplash.com/photo-1598096969068-7f52cac10c83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxib3klMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjA4MzM3NDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "boy portrait"
+    },
+    {
+      "id": "admin-login-bg",
+      "description": "School hallway",
+      "imageUrl": "https://images.unsplash.com/photo-1665322454949-2a1be46afc6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzY2hvb2wlMjBoYWxsd2F5fGVufDB8fHx8MTc2MDg2MjI5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "school hallway"
+    },
+    {
+      "id": "photo-to-tag",
+      "description": "Group of students for AI tagging",
+      "imageUrl": "https://images.unsplash.com/photo-1758270705639-9727f350f026?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzdHVkZW50cyUyMGdyb3VwfGVufDB8fHx8MTc2MDkzNDY4M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "students group"
+    }
+  ]
 }
