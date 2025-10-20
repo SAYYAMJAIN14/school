@@ -6,7 +6,7 @@ import { BookMarked, Menu, X } from 'lucide-react';
 import { useState } from 'react';
 
 import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import { Sheet, SheetContent, SheetTrigger, SheetTitle } from '@/components/ui/sheet';
 import { cn } from '@/lib/utils';
 
 const navItems = [
@@ -68,6 +68,7 @@ export function Header() {
               </Button>
             </SheetTrigger>
             <SheetContent side="right" className="w-[240px]">
+               <SheetTitle className="sr-only">Mobile Menu</SheetTitle>
               <div className="p-4">
                  <Link href="/" className="mr-6 flex items-center gap-2 mb-8" onClick={() => setIsMobileMenuOpen(false)}>
                   <BookMarked className="h-6 w-6 text-primary" />
