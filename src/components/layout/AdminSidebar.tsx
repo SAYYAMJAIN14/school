@@ -22,6 +22,7 @@ import {
   Settings,
   Upload,
 } from "lucide-react"
+import { SheetTitle } from "@/components/ui/sheet"
 
 const menuItems = [
   {
@@ -56,6 +57,7 @@ export function AdminSidebar() {
 
   return (
     <Sidebar collapsible="icon" className="border-r">
+      <SheetTitle className="sr-only">Admin Menu</SheetTitle>
       <SidebarHeader>
         <div className="flex items-center gap-3 p-2">
           <Avatar className="h-10 w-10">
