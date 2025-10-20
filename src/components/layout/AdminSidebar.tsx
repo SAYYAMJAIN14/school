@@ -57,8 +57,8 @@ export function AdminSidebar() {
 
   return (
     <Sidebar collapsible="icon" className="border-r">
-      <SheetTitle className="sr-only">Admin Menu</SheetTitle>
       <SidebarHeader>
+        <SheetTitle className="sr-only">Admin Menu</SheetTitle>
         <div className="flex items-center gap-3 p-2">
           <Avatar className="h-10 w-10">
             <AvatarImage src="https://picsum.photos/seed/admin/100/100" alt="Admin" data-ai-hint="person portrait" />
