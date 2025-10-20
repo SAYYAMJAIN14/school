@@ -56,8 +56,7 @@ export function AdminSidebar() {
   const pathname = usePathname()
 
   return (
-    <Sidebar collapsible="icon" className="border-r">
-      <SheetTitle className="sr-only">Admin Menu</SheetTitle>
+    <Sidebar collapsible="icon" className="border-r" mobileTitle="Admin Menu">
       <SidebarHeader>
         <div className="flex items-center gap-3 p-2">
           <Avatar className="h-10 w-10">
