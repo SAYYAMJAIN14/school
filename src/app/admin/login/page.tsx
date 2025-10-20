@@ -25,7 +25,7 @@ export default function LoginPage() {
 
     // Simulate API call
     setTimeout(() => {
-      if (email === 'sanskarbhushanjain443@gmail.com' && password.length > 0) {
+      if (email === 'sanskarbhushanjain443@gmail.com' && password === 'admin@1234') {
         toast({
           title: "Login Successful",
           description: "Redirecting to dashboard...",
